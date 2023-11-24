@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ToDoBooks/static/css/main.1f59ae86.css",
+    "main.js": "/ToDoBooks/static/js/main.12b035bc.js",
+    "index.html": "/ToDoBooks/index.html",
+    "main.1f59ae86.css.map": "/ToDoBooks/static/css/main.1f59ae86.css.map",
+    "main.12b035bc.js.map": "/ToDoBooks/static/js/main.12b035bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f59ae86.css",
+    "static/js/main.12b035bc.js"
+  ]
+}
